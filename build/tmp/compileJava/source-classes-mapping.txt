@@ -1,0 +1,8 @@
+org/hakaton/FundWallet.java
+ org.hakaton.FundWallet
+org/hakaton/OperationType.java
+ org.hakaton.OperationType
+org/hakaton/PaymentsRepository.java
+ org.hakaton.PaymentsRepository
+org/hakaton/Operation.java
+ org.hakaton.Operation

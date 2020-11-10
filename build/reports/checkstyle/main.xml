@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.21">
+<file name="/home/thorinhood/projects/ProjectsJava/hakaton/samples/fabric-samples/payments/chaincode-java/src/main/java/org/hakaton/Payment.java">
+<error line="58" column="58" severity="error" message="&apos;&amp;&amp;&apos; should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+</file>
+<file name="/home/thorinhood/projects/ProjectsJava/hakaton/samples/fabric-samples/payments/chaincode-java/src/main/java/org/hakaton/PaymentsRepository.java">
+</file>
+</checkstyle>
